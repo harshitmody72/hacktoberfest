@@ -20,3 +20,7 @@ if __name__ == '__main__':
         sum += float(j)
         ap = sum /3
     print("%.2f"%(ap))
+    
+    
+print('comple')
+print('start again')
